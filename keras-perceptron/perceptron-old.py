@@ -1,5 +1,4 @@
 # IMPORTANT this code has a bug in it - can you find it?
-# attempt
 
 import numpy
 from keras.datasets import mnist
